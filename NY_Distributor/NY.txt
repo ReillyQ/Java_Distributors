@@ -1,0 +1,558 @@
+County: Kings
+	Population: 2,736,074
+	Representatives: 34
+	Senators: 12
+	Population Share: 13.53 %
+	House Representation: 12.50 %
+	Senate Representation: 13.19 %
+	Combined Representation: 11.44 %
+
+County: Queens
+	Population: 2,405,464
+	Representatives: 30
+	Senators: 11
+	Population Share: 11.90 %
+	House Representation: 11.03 %
+	Senate Representation: 12.09 %
+	Combined Representation: 10.20 %
+
+County: New York
+	Population: 1,694,251
+	Representatives: 21
+	Senators: 8
+	Population Share: 8.38 %
+	House Representation: 7.72 %
+	Senate Representation: 8.79 %
+	Combined Representation: 7.21 %
+
+County: Suffolk
+	Population: 1,525,920
+	Representatives: 19
+	Senators: 7
+	Population Share: 7.55 %
+	House Representation: 6.99 %
+	Senate Representation: 7.69 %
+	Combined Representation: 6.47 %
+
+County: Bronx
+	Population: 1,472,654
+	Representatives: 18
+	Senators: 7
+	Population Share: 7.28 %
+	House Representation: 6.62 %
+	Senate Representation: 7.69 %
+	Combined Representation: 6.22 %
+
+County: Nassau
+	Population: 1,395,774
+	Representatives: 17
+	Senators: 7
+	Population Share: 6.90 %
+	House Representation: 6.25 %
+	Senate Representation: 7.69 %
+	Combined Representation: 5.97 %
+
+County: Westchester
+	Population: 1,004,457
+	Representatives: 13
+	Senators: 5
+	Population Share: 4.97 %
+	House Representation: 4.78 %
+	Senate Representation: 5.49 %
+	Combined Representation: 4.48 %
+
+County: Erie
+	Population: 954,236
+	Representatives: 12
+	Senators: 5
+	Population Share: 4.72 %
+	House Representation: 4.41 %
+	Senate Representation: 5.49 %
+	Combined Representation: 4.23 %
+
+County: Monroe
+	Population: 759,443
+	Representatives: 10
+	Senators: 4
+	Population Share: 3.76 %
+	House Representation: 3.68 %
+	Senate Representation: 4.40 %
+	Combined Representation: 3.48 %
+
+County: Richmond
+	Population: 495,747
+	Representatives: 6
+	Senators: 3
+	Population Share: 2.45 %
+	House Representation: 2.21 %
+	Senate Representation: 3.30 %
+	Combined Representation: 2.24 %
+
+County: Onondaga
+	Population: 476,516
+	Representatives: 6
+	Senators: 3
+	Population Share: 2.36 %
+	House Representation: 2.21 %
+	Senate Representation: 3.30 %
+	Combined Representation: 2.24 %
+
+County: Orange
+	Population: 401,310
+	Representatives: 5
+	Senators: 2
+	Population Share: 1.99 %
+	House Representation: 1.84 %
+	Senate Representation: 2.20 %
+	Combined Representation: 1.74 %
+
+County: Rockland
+	Population: 338,329
+	Representatives: 5
+	Senators: 2
+	Population Share: 1.67 %
+	House Representation: 1.84 %
+	Senate Representation: 2.20 %
+	Combined Representation: 1.74 %
+
+County: Albany
+	Population: 314,848
+	Representatives: 4
+	Senators: 2
+	Population Share: 1.56 %
+	House Representation: 1.47 %
+	Senate Representation: 2.20 %
+	Combined Representation: 1.49 %
+
+County: Dutchess
+	Population: 295,911
+	Representatives: 4
+	Senators: 2
+	Population Share: 1.46 %
+	House Representation: 1.47 %
+	Senate Representation: 2.20 %
+	Combined Representation: 1.49 %
+
+County: Saratoga
+	Population: 235,509
+	Representatives: 3
+	Senators: 2
+	Population Share: 1.16 %
+	House Representation: 1.10 %
+	Senate Representation: 2.20 %
+	Combined Representation: 1.24 %
+
+County: Oneida
+	Population: 232,125
+	Representatives: 3
+	Senators: 2
+	Population Share: 1.15 %
+	House Representation: 1.10 %
+	Senate Representation: 2.20 %
+	Combined Representation: 1.24 %
+
+County: Niagara
+	Population: 212,666
+	Representatives: 3
+	Senators: 1
+	Population Share: 1.05 %
+	House Representation: 1.10 %
+	Senate Representation: 1.10 %
+	Combined Representation: 1.00 %
+
+County: Broome
+	Population: 198,683
+	Representatives: 3
+	Senators: 1
+	Population Share: 0.98 %
+	House Representation: 1.10 %
+	Senate Representation: 1.10 %
+	Combined Representation: 1.00 %
+
+County: Ulster
+	Population: 181,851
+	Representatives: 3
+	Senators: 1
+	Population Share: 0.90 %
+	House Representation: 1.10 %
+	Senate Representation: 1.10 %
+	Combined Representation: 1.00 %
+
+County: Rensselaer
+	Population: 161,130
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.80 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Schenectady
+	Population: 158,061
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.78 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Chautauqua
+	Population: 127,657
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.63 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Oswego
+	Population: 117,525
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.58 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Jefferson
+	Population: 116,721
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.58 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Ontario
+	Population: 112,458
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.56 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: St. Lawrence
+	Population: 108,505
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.54 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Tompkins
+	Population: 105,740
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.52 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Putnam
+	Population: 97,668
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.48 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Steuben
+	Population: 93,584
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.46 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Wayne
+	Population: 91,283
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.45 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Chemung
+	Population: 84,148
+	Representatives: 2
+	Senators: 1
+	Population Share: 0.42 %
+	House Representation: 0.74 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.75 %
+
+County: Clinton
+	Population: 79,843
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.39 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Sullivan
+	Population: 78,624
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.39 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Cattaraugus
+	Population: 77,042
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.38 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Cayuga
+	Population: 76,248
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.38 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Madison
+	Population: 68,016
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.34 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Warren
+	Population: 65,737
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.33 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Livingston
+	Population: 61,834
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.31 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Columbia
+	Population: 61,570
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.30 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Washington
+	Population: 61,302
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.30 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Herkimer
+	Population: 60,139
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.30 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Ostego
+	Population: 58,524
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.29 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Genesee
+	Population: 58,388
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.29 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Fulton
+	Population: 53,324
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.26 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Montgomery
+	Population: 49,532
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.25 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Tioga
+	Population: 48,455
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.24 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Greene
+	Population: 47,931
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.24 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Franklin
+	Population: 47,555
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.24 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Chenago
+	Population: 47,220
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.23 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Cortland
+	Population: 46,809
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.23 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Allegany
+	Population: 46,456
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.23 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Delaware
+	Population: 44,308
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.22 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Wyoming
+	Population: 40,531
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.20 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Orleans
+	Population: 40,343
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.20 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Essex
+	Population: 37,381
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.18 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Seneca
+	Population: 33,814
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.17 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Schoharie
+	Population: 29,714
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.15 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Lewis
+	Population: 26,582
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.13 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Yates
+	Population: 24,774
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.12 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Schuyler
+	Population: 17,898
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.09 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+
+County: Hamilton
+	Population: 5,107
+	Representatives: 1
+	Senators: 1
+	Population Share: 0.03 %
+	House Representation: 0.37 %
+	Senate Representation: 1.10 %
+	Combined Representation: 0.50 %
+

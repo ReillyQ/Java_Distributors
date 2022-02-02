@@ -1,0 +1,400 @@
+State:  CA
+	Population: 39,538,224
+	Representatives: 81
+	Senators: 18
+	Population Share: 11.89 %
+	House Representation: 11.69 %
+	Senate Representation: 7.79 %
+	Combined Representation: 10.67 %
+State:  TX
+	Population: 29,145,504
+	Representatives: 60
+	Senators: 15
+	Population Share: 8.76 %
+	House Representation: 8.66 %
+	Senate Representation: 6.49 %
+	Combined Representation: 8.08 %
+State:  FL
+	Population: 21,538,188
+	Representatives: 44
+	Senators: 12
+	Population Share: 6.47 %
+	House Representation: 6.35 %
+	Senate Representation: 5.19 %
+	Combined Representation: 6.03 %
+State:  NY
+	Population: 20,201,248
+	Representatives: 41
+	Senators: 12
+	Population Share: 6.07 %
+	House Representation: 5.92 %
+	Senate Representation: 5.19 %
+	Combined Representation: 5.71 %
+State:  PA
+	Population: 13,002,700
+	Representatives: 27
+	Senators: 6
+	Population Share: 3.91 %
+	House Representation: 3.90 %
+	Senate Representation: 2.60 %
+	Combined Representation: 3.56 %
+State:  IL
+	Population: 12,812,508
+	Representatives: 26
+	Senators: 6
+	Population Share: 3.85 %
+	House Representation: 3.75 %
+	Senate Representation: 2.60 %
+	Combined Representation: 3.45 %
+State:  OH
+	Population: 11,799,448
+	Representatives: 24
+	Senators: 6
+	Population Share: 3.55 %
+	House Representation: 3.46 %
+	Senate Representation: 2.60 %
+	Combined Representation: 3.23 %
+State:  GA
+	Population: 10,711,908
+	Representatives: 22
+	Senators: 6
+	Population Share: 3.22 %
+	House Representation: 3.17 %
+	Senate Representation: 2.60 %
+	Combined Representation: 3.02 %
+State:  NC
+	Population: 10,439,388
+	Representatives: 22
+	Senators: 6
+	Population Share: 3.14 %
+	House Representation: 3.17 %
+	Senate Representation: 2.60 %
+	Combined Representation: 3.02 %
+State:  MI
+	Population: 10,077,331
+	Representatives: 21
+	Senators: 6
+	Population Share: 3.03 %
+	House Representation: 3.03 %
+	Senate Representation: 2.60 %
+	Combined Representation: 2.91 %
+State:  NJ
+	Population: 9,288,994
+	Representatives: 19
+	Senators: 6
+	Population Share: 2.79 %
+	House Representation: 2.74 %
+	Senate Representation: 2.60 %
+	Combined Representation: 2.69 %
+State:  VA
+	Population: 8,631,393
+	Representatives: 18
+	Senators: 6
+	Population Share: 2.59 %
+	House Representation: 2.60 %
+	Senate Representation: 2.60 %
+	Combined Representation: 2.59 %
+State:  WA
+	Population: 7,705,281
+	Representatives: 16
+	Senators: 6
+	Population Share: 2.32 %
+	House Representation: 2.31 %
+	Senate Representation: 2.60 %
+	Combined Representation: 2.37 %
+State:  AZ
+	Population: 7,151,502
+	Representatives: 15
+	Senators: 6
+	Population Share: 2.15 %
+	House Representation: 2.16 %
+	Senate Representation: 2.60 %
+	Combined Representation: 2.26 %
+State:  MA
+	Population: 7,029,917
+	Representatives: 15
+	Senators: 6
+	Population Share: 2.11 %
+	House Representation: 2.16 %
+	Senate Representation: 2.60 %
+	Combined Representation: 2.26 %
+State:  TN
+	Population: 6,910,840
+	Representatives: 14
+	Senators: 6
+	Population Share: 2.08 %
+	House Representation: 2.02 %
+	Senate Representation: 2.60 %
+	Combined Representation: 2.16 %
+State:  IN
+	Population: 6,785,528
+	Representatives: 14
+	Senators: 6
+	Population Share: 2.04 %
+	House Representation: 2.02 %
+	Senate Representation: 2.60 %
+	Combined Representation: 2.16 %
+State:  MO
+	Population: 6,177,224
+	Representatives: 13
+	Senators: 3
+	Population Share: 1.86 %
+	House Representation: 1.88 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.72 %
+State:  MD
+	Population: 6,154,913
+	Representatives: 13
+	Senators: 3
+	Population Share: 1.85 %
+	House Representation: 1.88 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.72 %
+State:  WI
+	Population: 5,893,718
+	Representatives: 12
+	Senators: 3
+	Population Share: 1.77 %
+	House Representation: 1.73 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.62 %
+State:  CO
+	Population: 5,773,714
+	Representatives: 12
+	Senators: 3
+	Population Share: 1.74 %
+	House Representation: 1.73 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.62 %
+State:  MN
+	Population: 5,706,494
+	Representatives: 12
+	Senators: 3
+	Population Share: 1.72 %
+	House Representation: 1.73 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.62 %
+State:  SC
+	Population: 5,118,425
+	Representatives: 11
+	Senators: 3
+	Population Share: 1.54 %
+	House Representation: 1.59 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.51 %
+State:  AL
+	Population: 5,024,279
+	Representatives: 11
+	Senators: 3
+	Population Share: 1.51 %
+	House Representation: 1.59 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.51 %
+State:  LA
+	Population: 4,657,757
+	Representatives: 10
+	Senators: 3
+	Population Share: 1.40 %
+	House Representation: 1.44 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.40 %
+State:  KY
+	Population: 4,505,836
+	Representatives: 10
+	Senators: 3
+	Population Share: 1.35 %
+	House Representation: 1.44 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.40 %
+State:  OR
+	Population: 4,237,256
+	Representatives: 9
+	Senators: 3
+	Population Share: 1.27 %
+	House Representation: 1.30 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.29 %
+State:  OK
+	Population: 3,959,353
+	Representatives: 9
+	Senators: 3
+	Population Share: 1.19 %
+	House Representation: 1.30 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.29 %
+State:  CT
+	Population: 3,605,944
+	Representatives: 8
+	Senators: 3
+	Population Share: 1.08 %
+	House Representation: 1.15 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.19 %
+State:  UT
+	Population: 3,271,616
+	Representatives: 7
+	Senators: 3
+	Population Share: 0.98 %
+	House Representation: 1.01 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.08 %
+State:  IA
+	Population: 3,190,369
+	Representatives: 7
+	Senators: 3
+	Population Share: 0.96 %
+	House Representation: 1.01 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.08 %
+State:  NV
+	Population: 3,104,614
+	Representatives: 7
+	Senators: 3
+	Population Share: 0.93 %
+	House Representation: 1.01 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.08 %
+State:  AR
+	Population: 3,011,524
+	Representatives: 7
+	Senators: 3
+	Population Share: 0.91 %
+	House Representation: 1.01 %
+	Senate Representation: 1.30 %
+	Combined Representation: 1.08 %
+State:  MS
+	Population: 2,961,279
+	Representatives: 6
+	Senators: 3
+	Population Share: 0.89 %
+	House Representation: 0.87 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.97 %
+State:  KS
+	Population: 2,937,880
+	Representatives: 6
+	Senators: 3
+	Population Share: 0.88 %
+	House Representation: 0.87 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.97 %
+State:  NM
+	Population: 2,117,522
+	Representatives: 5
+	Senators: 3
+	Population Share: 0.64 %
+	House Representation: 0.72 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.86 %
+State:  NE
+	Population: 1,961,504
+	Representatives: 4
+	Senators: 3
+	Population Share: 0.59 %
+	House Representation: 0.58 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.75 %
+State:  ID
+	Population: 1,839,106
+	Representatives: 4
+	Senators: 3
+	Population Share: 0.55 %
+	House Representation: 0.58 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.75 %
+State:  WV
+	Population: 1,793,716
+	Representatives: 4
+	Senators: 3
+	Population Share: 0.54 %
+	House Representation: 0.58 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.75 %
+State:  HI
+	Population: 1,455,271
+	Representatives: 3
+	Senators: 3
+	Population Share: 0.44 %
+	House Representation: 0.43 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.65 %
+State:  NH
+	Population: 1,377,529
+	Representatives: 3
+	Senators: 3
+	Population Share: 0.41 %
+	House Representation: 0.43 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.65 %
+State:  ME
+	Population: 1,362,359
+	Representatives: 3
+	Senators: 3
+	Population Share: 0.41 %
+	House Representation: 0.43 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.65 %
+State:  MT
+	Population: 1,097,379
+	Representatives: 3
+	Senators: 3
+	Population Share: 0.33 %
+	House Representation: 0.43 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.65 %
+State:  RI
+	Population: 1,084,225
+	Representatives: 3
+	Senators: 3
+	Population Share: 0.33 %
+	House Representation: 0.43 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.65 %
+State:  DE
+	Population: 989,948
+	Representatives: 3
+	Senators: 3
+	Population Share: 0.30 %
+	House Representation: 0.43 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.65 %
+State:  SD
+	Population: 886,667
+	Representatives: 2
+	Senators: 3
+	Population Share: 0.27 %
+	House Representation: 0.29 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.54 %
+State:  ND
+	Population: 779,094
+	Representatives: 2
+	Senators: 3
+	Population Share: 0.23 %
+	House Representation: 0.29 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.54 %
+State:  AK
+	Population: 733,391
+	Representatives: 2
+	Senators: 3
+	Population Share: 0.22 %
+	House Representation: 0.29 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.54 %
+State:  VT
+	Population: 643,077
+	Representatives: 2
+	Senators: 3
+	Population Share: 0.19 %
+	House Representation: 0.29 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.54 %
+State:  WY
+	Population: 576,851
+	Representatives: 2
+	Senators: 3
+	Population Share: 0.17 %
+	House Representation: 0.29 %
+	Senate Representation: 1.30 %
+	Combined Representation: 0.54 %
